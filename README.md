@@ -1,11 +1,9 @@
-# ProgettoSAD
-Realizzazione e gestione di classifiche per i giocatori
-# Gruppo B1,task R2
+# ProgettoSAD: gruppo B1,task R2
 # Membri del gruppo: 
-# Esposito Andrea M63001650 andrea.esposito66@studenti.unina.it
-# Papale Livio M63001824 li.papale@studenti.unina.it
-# Sorrentino Carmine M63001819 carmine.sorrentino4@studenti.unina.it
-# Vallefuoco Roberto M63001443 roberto.vallefuoco@studenti.unina.it
+. Esposito Andrea M63001650 andrea.esposito66@studenti.unina.it
+. Papale Livio M63001824 li.papale@studenti.unina.it
+. Sorrentino Carmine M63001819 carmine.sorrentino4@studenti.unina.it
+. Vallefuoco Roberto M63001443 roberto.vallefuoco@studenti.unina.it
 Le modifiche assegnate impattano nella loro totalità sul microservizio
 T5, in quanto, oltre ad essere in esso situato il Page Builder, che ab-
 biamo usato per estendere le funzionalità offerte da T5 aggiungendo
